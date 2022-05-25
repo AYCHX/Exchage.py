@@ -4,6 +4,6 @@ requests == 2.22.0
 python-dateutil == 2.8.1
 websockets == 8.1.0
 kucoin-python == 2.0.5
-pyjwt == 1.7.1
+pyjwt == 2.4.0
 leverj_ordersigner == 0.8
 dydx-python == 0.7.0
